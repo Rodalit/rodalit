@@ -1,9 +1,6 @@
 # 🤖 AI & Machine Learning Enthusiast
 ## Focusing on LLMs & Diffusion Models
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodalit&theme=dark)](https://git.io/streak-stats)
-[![Metrics](https://metrics.lecoq.io/rodalit?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&projects=1&stars=1&achievements=1&activity=1&commits=1&repositories=1&gists=1&introduction=true&followup=1)](https://www.github.com/vаш_логин)
-
 ### Technical Skills
 🔬 Core Technologies:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
@@ -18,3 +15,8 @@
 - Diffusion Models
 - Deep Learning Applications
 - AI Research & Development
+
+### Stats
+📊 GitHub Activity:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodalit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodalit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

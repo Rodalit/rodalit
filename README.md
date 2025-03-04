@@ -1,7 +1,6 @@
 # 🤖 AI & Machine Learning Enthusiast
 ## Focusing on LLMs & Diffusion Models
 
-### Technical Skills
 ## ⚡ Core Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
